@@ -1,0 +1,6 @@
+Hermione||1000||10
+Harry||680||8
+Draco||420||8
+Ron||140||2
+Crab||0||0
+Goyle||0||0
